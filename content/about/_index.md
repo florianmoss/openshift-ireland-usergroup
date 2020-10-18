@@ -23,3 +23,9 @@ customers are running and have customer presentations focus on
 such. If you’d like to find out more, please get in 
 [touch with us](/contact).
 
+Murph               | Florian Moss
+---                         | --- 
+Senior Solution Architect, Red Hat                   |  Solution Architect, Red Hat
+murph@redhat.com | fmoss@redhat.com
+
+Also, our code is Open. You can find the source code to this site and [all other content on GitHub](https://github.com/florianmoss/openshift-ireland)

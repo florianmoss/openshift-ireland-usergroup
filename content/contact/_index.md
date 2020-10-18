@@ -10,4 +10,4 @@ description: "this is meta description"
 type : "contact"
 ---
 
-Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea
+The easiest way to join the group is by subscribing to the mailing list. The mailing list is used as a general communication tool for the OpenShift Ireland User Group. You can subscribe to the mailing list [here](https://www.redhat.com/mailman/listinfo/openshift-ireland). If you encounter any problems, simply get in touch with [Murph](mailto:murph@redhat.com) or [Florian](mailto:fmoss@redhat.com)
