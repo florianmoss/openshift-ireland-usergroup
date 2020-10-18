@@ -13,8 +13,13 @@ description: "this is meta description"
 type : "about"
 ---
 
-Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet,
+The OpenShift Ireland User Group is mainly aimed at existing 
+OpenShift users in Ireland but is also open to professionals 
+that are looking to find out more about [OpenShift](https://www.openshift.com/) and to learn 
+from user experiences. It is meant to be a platform for 
+knowledge transfer and exchange of experiences. The user group
+will focus on presenting and discussing real workloads that 
+customers are running and have customer presentations focus on 
+such. If you’d like to find out more, please get in 
+[touch with us](/contact).
 
-consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam
-
-nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd
