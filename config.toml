@@ -89,9 +89,8 @@ home = "Home"
 description = "OpenShift Ireland User Group"
 author = "Florian Moss"
 # Google Analitycs
-googleAnalyticsID = "Your ID"
+googleAnalyticsID = "G-VE878Y7TJY"
 # Contact Information
-mobile = "+353 (86) 061 5590"
 email = "openshift-ireland@redhat.com"
 location = "Dublin, Ireland"
 # copyright
