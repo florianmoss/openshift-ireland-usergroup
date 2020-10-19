@@ -1,6 +1,6 @@
 [build]
-  publish = "example-site/public"
-  command = "cd example-site && hugo --gc --themesDir ../.."
+  publish = "exampleSite/public"
+  command = "cd exampleSite && hugo --gc --themesDir ../.."
   
 [build.environment]
   HUGO_VERSION = "0.73.0"
