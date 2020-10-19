@@ -1,6 +1,6 @@
 [build]
-  publish = "openshift-test/public"
-  command = "cd openshift-test && hugo --gc --themesDir ../.."
+  publish = "example-site/public"
+  command = "cd example-site && hugo --gc --themesDir ../.."
   
 [build.environment]
   HUGO_VERSION = "0.73.0"
