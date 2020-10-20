@@ -1,5 +1,5 @@
 ---
-title: "OpenShift Ireland: Meeting #1"
+title: "Welcome to the OpenShift Ireland User Group"
 date: 2020-10-19T10:07:47+06:00
 draft: false
 
