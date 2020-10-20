@@ -1,5 +1,5 @@
 ######################## default configuration ####################
-baseURL = "https://test.openshift-ireland.com"
+baseURL = "https://openshift-ireland.com"
 languageCode = "en-us"
 title = "OpenShift Ireland | User Group"
 theme = "liva-hugo"
