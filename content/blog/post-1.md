@@ -7,14 +7,12 @@ draft: false
 image: "images/featured-post/ocp.jpg"
 
 # meta description
-description: "this is meta description"
+description: "OpenShift Ireland User Group - Welcome Message"
 
 # taxonomies
 categories:
   - "Meeting"
 tags:
-  - "User Group"
-  - "Meeting"
   - "Introduction"
 
 # post type

@@ -60,7 +60,7 @@ disqusShortname = ""
   weight = 3
 
   [[menu.main]]
-  name = "Contact"
+  name = "Join us"
   URL = "contact"
   weight = 4
 
