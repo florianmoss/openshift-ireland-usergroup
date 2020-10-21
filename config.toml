@@ -113,6 +113,6 @@ icon = "ti-github" # themify icon : https://themify.me/themify-icons
 link = "https://github.com/openshift"
 
 [[params.social]]
-title = "linkedin"
+title = "twitter"
 icon = "ti-twitter" # themify icon : https://themify.me/themify-icons
 link = "https://twitter.com/openshift"
