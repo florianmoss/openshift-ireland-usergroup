@@ -18,7 +18,7 @@ tags:
   - "What's New"
 
 # post type
-type: "featured"
+type: "post"
 ---
 
 # Presentation 3: Red Hat (What's new in OpenShift 4.6?)
