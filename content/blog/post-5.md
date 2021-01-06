@@ -46,7 +46,7 @@ DevOps (Automation) Engineer with experience in Infrastructure Optimization and 
 Mihai builds containers for fun and profit, sometimes in the cloud, sometimes in his home datacenter, when the weather is cold. He's also the CTO and Senior Technical Staff Member for Cloud Native and Red Hat Solutions at IBM, where he builds multi-cloud solutions based on Red Hat OpenShift. 
 
 ## Talk 2: What's new in OpenShift 4.7?
-Never change a winning team, right? Ian 'Uther' Lawson will give a quick update on the latest features within the latest OpenShift release. The format will be similar to the first, we will have a quick run through the latest features and then open the floor for qustions and experiences. 
+Never change a winning team, right? Ian 'Uther' Lawson will give a quick update on the latest features within the latest OpenShift release. The format will be similar to the first, we will have a quick run through the latest features and then open the floor for questions - and hopefully answers :)
 
 #### Speakers
 **Ian 'Uther' Lawson**
