@@ -61,7 +61,7 @@ disqusShortname = ""
 
   [[menu.main]]
   name = "Join us"
-  URL = "contact"
+  URL = "https://www.meetup.com/dublin-openshift-meetup-group/"
   weight = 4
 
   # footer menu
