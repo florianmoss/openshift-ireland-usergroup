@@ -17,7 +17,7 @@ tags:
   - "Announcement"
 
 # post type
-type: "featured"
+type: "post"
 ---
 
 # Happy New Year and next meetup announcement
