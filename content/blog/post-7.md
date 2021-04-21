@@ -20,7 +20,7 @@ tags:
   - "Skopeo"
 
 # post type
-type: "featured"
+type: "post"
 ---
 
 
